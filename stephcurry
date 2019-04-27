@@ -367,7 +367,7 @@
         {"team":"New Orleans Pelicans","Char":"PRESENTATION","Row":12,"Col":2, "Cat":5, "Value":1,"Sum":14},
         {"team":"New Orleans Pelicans","Char":"PRESENTATION","Row":12,"Col":3 ,"Cat":5, "Value":1,"Sum":15},
         {"team":"New Orleans Pelicans","Char":"PRESENTATION","Row":12,"Col":4, "Cat":5, "Value":1,"Sum":16},
-        {"team":"New Orleans Pelicans","Char":"PRESENTATION","Row":12,"Col":5, "Cat":5, "Value":0,"Neg":1},
+        {"team":"New Orleans Pelicans","Char":"PRESENTATION","Row":12,"Col":5, "Cat":5, "Value":0,"Sum":17},
 
 
         {"team":"Minnesota Timberwolves","Char":"FRESHNESS","Row":13,"Col":1, "Cat":1, "Value":1,"Sum":1},
