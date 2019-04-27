@@ -409,7 +409,7 @@
         {"team":"Washington Wizards","Char":"SALTINESS","Row":14,"Col":1, "Cat":2, "Value":1,"Sum":5},
         {"team":"Washington Wizards","Char":"SALTINESS","Row":14,"Col":2, "Cat":2, "Value":1,"Sum":6},
         {"team":"Washington Wizards","Char":"SALTINESS","Row":14,"Col":3 ,"Cat":2, "Value":1,"Sum":7},
-        {"team":"Washington Wizards","Char":"SALTINESS","Row":14,"Col":4, "Cat":2, "Value":1,"Neg":1},
+        {"team":"Washington Wizards","Char":"SALTINESS","Row":14,"Col":4, "Cat":2, "Value":0,"Neg":1},
         {"team":"Washington Wizards","Char":"SALTINESS","Row":14,"Col":5, "Cat":2, "Value":0,"Neg":1},
 
         {"team":"Washington Wizards","Char":"CRUNCHINESS","Row":14,"Col":1, "Cat":3, "Value":1,"Sum":8},
